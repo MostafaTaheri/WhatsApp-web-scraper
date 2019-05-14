@@ -1,0 +1,6 @@
+[your-config]
+BROWSER = chrome
+BROWSER_PATH = F:/Python_Exercise/chromedriver/chromedriver.exe
+NAME = IT
+PAGE = https://web.whatsapp.com/
+Output = Result/Result.txt
